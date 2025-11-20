@@ -109,9 +109,15 @@
 
 <h3>📷 Screenshots</h3>
 
-<p>
-  <em>(Platzhalter für Screenshots / Placeholder for screenshots)</em>
-</p>
+<div align="center">
+  <img src="assets/startseite.png" alt="PinguPal Blog Frontend" width="48%" style="margin-right: 10px; margin-bottom: 10px;">
+  
+  <img src="assets/admin_menu_creation.png" alt="Menu creation" width="48%" style="margin-bottom: 10px;">
+  
+  <img src="assets/blog.png" alt="Blog creation" width="48%" style="margin-right: 10px;">
+  
+  <img src="assets/comments.png" alt="Comment Section" width="48%">
+</div>
 
 <hr>
 
