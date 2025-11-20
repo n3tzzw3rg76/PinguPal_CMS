@@ -110,7 +110,7 @@
 <h3>📷 Screenshots</h3>
 
 <div align="center">
-  <img src="assets/startseite.png" alt="PinguPal Blog Frontend" width="48%" style="margin-right: 10px; margin-bottom: 10px;">
+  <img src="assets//startseite.png" alt="PinguPal Blog Frontend" width="48%" style="margin-right: 10px; margin-bottom: 10px;">
   
   <img src="assets/admin_menu_creation.png" alt="Menu creation" width="48%" style="margin-bottom: 10px;">
   
